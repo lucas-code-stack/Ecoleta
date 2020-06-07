@@ -6,3 +6,4 @@ Sobre o Projeto : Por conta da semana do meio ambiente desevolvi um site onde em
 Tecnologias Usadas : JavaScript, Node.js, SQLlite
 
 OBS: O PERFIL ("LUKINHAS RODRIGUES") É MEU TBM,PORTANTO CONSIDERE O PERFIL CITADO COMO PARTE DO PERFIL ("LUCAS-CODE-STACK")
+Houve um erro e acabei colocando o projeto Ecoleta em outra conta mas considerem os dois perfis como um so
