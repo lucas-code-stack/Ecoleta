@@ -5,4 +5,4 @@ Sobre o Projeto : Por conta da semana do meio ambiente desevolvi um site onde em
 
 Tecnologias Usadas :HTML, CSS, JavaScript, Node.js, SQLlite
 
-obs: considere o contribuidor "Lukinhas Rodrigues" como parte desta conta 
+obs: considere o contribuidor "Lukinhas Rodrigues" como parte desta conta.
